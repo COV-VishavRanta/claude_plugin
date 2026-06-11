@@ -1,0 +1,11 @@
+{
+  "adoProjectName": "SDLC Testing",
+  "git": {
+    "feature_branch_name_convention": "feature/${ticket_number}-short-description",
+    "bug_branch_name_convention": "bug/${ticket_number}-short-description",
+    "commit_message_convention": "${ticket_number}: short description"
+  },
+  "TEST_BASE_URL": "https://saucedemo.com/",
+  "TEST_USERNAME": "standard_user",
+  "TEST_PASSWORD": "secret_sauce"
+}

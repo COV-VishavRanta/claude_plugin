@@ -1,0 +1,9 @@
+{
+  "name": "pso-ai-sdlc",
+  "description": "Covalience PSO AI SDLC toolkit — architecture agents, dev workflow agents, QA pipeline, skills, rules, and templates for end-to-end AI-assisted software delivery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Covalience"
+  },
+  "homepage": "https://github.com/CovalienceLLC/pso-ai-sdlc-development"
+}
